@@ -1,6 +1,7 @@
 /*
 Assignment - Lab                                                                      
     Create demo applications to illustrate different types of inheritance.
+    Create a demo function and override it.
 */
 
 #include <iostream>
