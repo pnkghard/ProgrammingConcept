@@ -21,5 +21,4 @@ class Assignment_JAVA_2_1 {
 		double sqrt = Math.sqrt(sc.nextInt());
 		System.out.println("Square root of number : "+sqrt);
 	}
-
 }
